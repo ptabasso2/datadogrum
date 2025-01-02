@@ -1,0 +1,6 @@
+# Project exclude paths
+/complete/spring-backend/.gradle/
+/complete/spring-backend/build/
+/complete/spring-backend/build/classes/java/main/
+/complete/vue-frontend/dist/
+/spring-backend/.gradle/
